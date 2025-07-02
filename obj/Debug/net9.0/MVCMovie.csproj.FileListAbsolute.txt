@@ -94,3 +94,4 @@ C:\Users\HP\MVCMovie\bin\Debug\net9.0\MVCMovie.runtimeconfig.json
 C:\Users\HP\MVCMovie\bin\Debug\net9.0\MVCMovie.pdb
 C:\Users\HP\MVCMovie\obj\Debug\net9.0\MVCMovie.genruntimeconfig.cache
 C:\Users\HP\MVCMovie\obj\Debug\net9.0\ref\MVCMovie.dll
+C:\Users\HP\MVCMovie\obj\Debug\net9.0\MVCMovie.sourcelink.json
